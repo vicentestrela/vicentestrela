@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicentestrela&label=Profile%20views&color=0e75b6&style=flat" alt="vicentestrela" /> </p>
 
-- 🔭 I’m currently working on [Cybersecurity (IAM Solutions)](e-trust.com.br)
+- 🔭 I’m currently working on Cybersecurity (IAM Solutions)
 
 - 🌱 I’m currently learning **Linux, SQL, Azure, Docker and Kubernetes**
 
