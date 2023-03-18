@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Cybersecurity (IAM Solutions)
 
-- 🌱 I’m currently learning **Linux, SQL, Azure, Docker and Kubernetes**
+- 🌱 I’m currently learning **Linux, SQL, PowerShell, Azure, Docker and Kubernetes**
 
 - 📫 How to reach me **vicentestrela1@gmail.com**
 
