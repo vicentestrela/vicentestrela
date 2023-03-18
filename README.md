@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicente Amorim</h1>
 <h3 align="center">An IT professional problem solver</h3>
 
-<img align="right" alt="solving" widht="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicentestrela&label=Profile%20views&color=0e75b6&style=flat" alt="vicentestrela" /> </p>
 
 - 🔭 I’m currently working on [Cybersecurity (IAM Solutions)](e-trust.com.br)
