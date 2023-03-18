@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vicente Amorim</h1>
 <h3 align="center">An IT problem solver and DevOps culture enthusiast</h3>
 
+</p>
+
 - 🔭 I’m currently working on Cybersecurity (IAM Solutions)
 
 - 🌱 I’m currently learning **Linux, SQL, PowerShell, Azure, Docker and Kubernetes**
