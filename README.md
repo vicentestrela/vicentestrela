@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicente Amorim</h1>
 <h3 align="center">An IT problem solver and DevOps culture enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicentestrela&label=Profile%20views&color=0e75b6&style=flat" alt="vicentestrela" /> </p>
-
 - 🔭 I’m currently working on Cybersecurity (IAM Solutions)
 
 - 🌱 I’m currently learning **Linux, SQL, PowerShell, Azure, Docker and Kubernetes**
