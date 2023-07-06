@@ -3,7 +3,7 @@
 
 </p>
 
-- 🔭 I’m currently working on Cybersecurity (Identity and Access Solutions)
+- 🔭 I’m currently working on Cybersecurity (Identity and Access Management Solutions)
 
 - 🌱 I’m currently learning **Linux, MySQL, PowerShell, and Microsoft Azure**
 
