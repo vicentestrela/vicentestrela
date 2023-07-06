@@ -3,11 +3,11 @@
 
 </p>
 
-- 🔭 I’m currently working on Cybersecurity (IAM Solutions)
+- 🔭 I’m currently working on Cybersecurity (Identity and Access Solutions)
 
-- 🌱 I’m currently learning **Linux, SQL, PowerShell, Azure, Docker and Kubernetes**
+- 🌱 I’m currently learning **Linux, MySQL, PowerShell, and Microsoft Azure**
 
-- 📫 How to reach me **vicentestrela1@gmail.com**
+- 📫 How to reach me **vicente.padilha00@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/vicentestrela](linkedin.com/in/vicentestrela)
 
