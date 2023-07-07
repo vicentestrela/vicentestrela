@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicente Amorim</h1>
-<h3 align="center">An IT problem solver and DevOps culture enthusiast</h3>
+<h3 align="center">A Software Engineering student and a IT problem solver </h3>
 
 </p>
 
